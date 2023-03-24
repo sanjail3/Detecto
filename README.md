@@ -1,13 +1,20 @@
-## Mobile Banking App built with Flutter & NodeJS.
-Create Account, Login, Transfer, Withdraw, Check Balance, view Transaction History.
+## Mobile APP to detect Fraud Banking Transaction and Credit Card Transaction 
 
-Backend API (built with NodeJS, MongoDB, Express) for this project is available here => https://github.com/ogbodotg/Veegil-Bank-API
 
-# Screenshots
-![alt text](https://github.com/ogbodotg/Veegil-Bank-Mobile-App/blob/master/assets/images/1.png?raw=true)
-![alt text](https://github.com/ogbodotg/Veegil-Bank-Mobile-App/blob/master/assets/images/2.png?raw=true)
-![alt text](https://github.com/ogbodotg/Veegil-Bank-Mobile-App/blob/master/assets/images/3.png?raw=true)
-![alt text](https://github.com/ogbodotg/Veegil-Bank-Mobile-App/blob/master/assets/images/4.png?raw=true)
-![alt text](https://github.com/ogbodotg/Veegil-Bank-Mobile-App/blob/master/assets/images/5.png?raw=true)
-![alt text](https://github.com/ogbodotg/Veegil-Bank-Mobile-App/blob/master/assets/images/6.png?raw=true)
 
+
+
+
+### Screenshots of our APP
+
+
+
+<img width="154" alt="Screenshot 2023-03-24 141336" src="https://user-images.githubusercontent.com/86285670/227476613-2338829f-3e1e-4c4e-8e24-ada5941b06c5.png">
+
+<img width="147" alt="Screenshot 2023-03-24 143717" src="https://user-images.githubusercontent.com/86285670/227476746-8084ecbe-a93d-4be7-9448-f2dcaa702d49.png">
+
+
+<img width="152" alt="Screenshot 2023-03-24 143536" src="https://user-images.githubusercontent.com/86285670/227476683-92ec29ca-0da8-44da-966a-f39a30900299.png">
+
+
+<img width="148" alt="Screenshot 2023-03-24 141757" src="https://user-images.githubusercontent.com/86285670/227476771-6a404d1a-78e1-4158-bd51-0c9ca8d690d6.png">
