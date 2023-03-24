@@ -1,4 +1,4 @@
-## Mobile APP to detect Fraud Banking Transaction and Credit Card Transaction 
+## Mobile APP named  Detecto  to detect Fraud Banking Transaction and Credit Card Transaction 
 
 We Trained a ML model to detect  Credit card Fraud  Transaction and Saved in model.pkl
 
